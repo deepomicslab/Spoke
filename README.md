@@ -1,2 +1,2 @@
 # Spoke
-Algorithms and tools for analyzing how cells spatially SPOKE to each other.
+A tool for annotating how cells spatially SPOKE to each other.
